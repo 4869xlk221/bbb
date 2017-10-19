@@ -1,0 +1,6 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;/* 列表标签的默认样式 */
+	text-decoration: none;/* 清楚下划线 */
+}
